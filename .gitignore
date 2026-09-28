@@ -1,0 +1,13 @@
+# Ignore video inputs and outputs (to avoid large uploads failing on GitHub)
+data/
+*.mp4
+*.mkv
+*.webm
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
