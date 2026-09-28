@@ -1,0 +1,14 @@
+{
+    "api_keys": {
+        "gemini_api_key": "YOUR_GEMINI_API_KEY"
+    },
+    "paths": {
+        "input_dir": "data/input",
+        "output_dir": "data/output"
+    },
+    "settings": {
+        "whisper_model": "base",
+        "clip_duration": 60,
+        "aspect_ratio": "9:16"
+    }
+}
